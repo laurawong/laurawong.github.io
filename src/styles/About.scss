@@ -1,7 +1,9 @@
 .aboutMe-ul {
-  columns: 2;
   width: 40%;
 
+  @media (min-width:600px)  {
+    columns: 2;
+  }
 }
 
 .aboutMe-container {
