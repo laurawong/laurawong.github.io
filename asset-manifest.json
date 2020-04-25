@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/laurawong.github.io/static/css/main.1293a454.chunk.css",
+    "main.js": "/laurawong.github.io/static/js/main.96d20a57.chunk.js",
+    "main.js.map": "/laurawong.github.io/static/js/main.96d20a57.chunk.js.map",
+    "runtime-main.js": "/laurawong.github.io/static/js/runtime-main.55da8b22.js",
+    "runtime-main.js.map": "/laurawong.github.io/static/js/runtime-main.55da8b22.js.map",
+    "static/css/2.92e52153.chunk.css": "/laurawong.github.io/static/css/2.92e52153.chunk.css",
+    "static/js/2.5f87bae6.chunk.js": "/laurawong.github.io/static/js/2.5f87bae6.chunk.js",
+    "static/js/2.5f87bae6.chunk.js.map": "/laurawong.github.io/static/js/2.5f87bae6.chunk.js.map",
+    "index.html": "/laurawong.github.io/index.html",
+    "precache-manifest.ed26e3a9974c0b77d70f8e9aff899d50.js": "/laurawong.github.io/precache-manifest.ed26e3a9974c0b77d70f8e9aff899d50.js",
+    "service-worker.js": "/laurawong.github.io/service-worker.js",
+    "static/css/2.92e52153.chunk.css.map": "/laurawong.github.io/static/css/2.92e52153.chunk.css.map",
+    "static/css/main.1293a454.chunk.css.map": "/laurawong.github.io/static/css/main.1293a454.chunk.css.map",
+    "static/js/2.5f87bae6.chunk.js.LICENSE.txt": "/laurawong.github.io/static/js/2.5f87bae6.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/laurawong.github.io/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55da8b22.js",
+    "static/css/2.92e52153.chunk.css",
+    "static/js/2.5f87bae6.chunk.js",
+    "static/css/main.1293a454.chunk.css",
+    "static/js/main.96d20a57.chunk.js"
+  ]
+}
